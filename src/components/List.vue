@@ -67,10 +67,10 @@ export default {
     data: function(){
         return {
             todolist: [
-                {id:1, todo:"영화보기", done:"false"},
-                {id:2, todo:"산책하기", done:"false"},
-                {id:3, todo:"사랑이 놀아주기", done:"false"},
-                {id:4, todo:"공부하기", done:"false"}
+                {id:1, todo:"영화보기", done:false},
+                {id:2, todo:"산책하기", done:false},
+                {id:3, todo:"사랑이 놀아주기", done:false},
+                {id:4, todo:"공부하기", done:false}
             ]
         }
     },
